@@ -1,7 +1,7 @@
 {
   "name": "StackEdit",
   "productName": "StackEdit",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Loads StackEdit in an Electron window",
   "main": "app.js",
   "author": "Jonathan Williams",
