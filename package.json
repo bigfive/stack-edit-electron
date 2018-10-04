@@ -1,0 +1,18 @@
+{
+  "name": "StackEdit",
+  "productName": "StackEdit",
+  "version": "1.0.0",
+  "description": "Loads StackEdit in an Electron window",
+  "main": "app.js",
+  "author": "Jonathan Williams",
+  "license": "ISC",
+  "repository": "https://github.com/bigfive/stack-edit-electron",
+  "scripts": {
+    "start": "electron app.js",
+    "pack-osx": "electron-packager ./ 'StackEdit' --overwrite --platform=darwin --arch=x64 --icon=icon.icns"
+  },
+  "devDependencies": {
+    "electron": "^3.0.2",
+    "electron-packager": "^12.2.0"
+  }
+}

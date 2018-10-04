@@ -1,0 +1,4 @@
+node_modules/
+.DS_Store
+StackEdit-darwin-x64/
+*/**/.DS_Store
