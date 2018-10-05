@@ -3,7 +3,11 @@ Simplez
 
 ---
 
-To package:
+Simply grab a release and run!
+
+---
+
+To package from source:
 
 ```
 npm install
